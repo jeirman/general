@@ -1,14 +1,22 @@
 Install Homebrew
+
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+
 Install node
+
 brew install node
 
+
 check node and npm installation
+
 node --version
+
 npm -v
 
+
 Install create-react-app
+
 npm install -g create-react-app
 
 Install GIT
